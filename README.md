@@ -1,30 +1,35 @@
-Thanks! Here's a tailored GitHub description based on your game that generates a number from 1 to 10 using only **HTML** and **CSS** (assuming the game logic is very simple or purely visual without JavaScript):
+# 🎯 Guess the Number Game (1–10)
 
----
+This is a simple **Guess the Number** game built with **HTML**, **CSS**, and **JavaScript**. The goal is to guess a randomly generated number between **1 and 10**. You start with **10 points**, and each wrong guess reduces your score by 1. If your score reaches **0**, the game ends and a **Restart** button appears so you can play again.
 
-## 🔢 Guess the Number (1–10)
+## 🕹️ How to Play
 
-A simple **"Guess the Number"** game built using only **HTML** and **CSS**. The game randomly picks a number between **1 and 10**, and the user tries to guess the correct number.
+1. The game randomly selects a number between **1 and 10**.
+2. Enter your guess and click the **Check** button.
+3. You'll get feedback:
+   - ✅ Correct: You win the game!
+   - 🔼 Too high / 🔽 Too low: Try again, and your score decreases.
+4. When your **score reaches 0**, the game ends.
+5. Click the **Restart** button to play a new game.
 
-### 🎯 Features
+## 🚀 Features
 
-* Number range: 1 to 10
-* Interactive layout using only HTML CSS and Javascript
-* No JavaScript involved – purely frontend styling and structure
-* Great for beginners learning basic web development
+- Random number generation between 1 and 10
+- Starting score: 10
+- Score decreases with each incorrect guess
+- Game ends when score reaches 0
+- "Play Again" functionality to restart the game
+- Responsive and clean UI
 
-### 🛠️ Technologies Used
+## 🛠️ Built With
 
-* HTML5
-* CSS3
-* Javascript
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-### 🚀 How to Play
+## 📂 How to Run Locally
 
-1. Open the `index.html` file in your browser.
-2. Pick a number between 1 and 10.
-3. See if your guess matches the correct number (implementation depends on how you've structured it visually or interactively).
-
----
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yogeshanand03/guess-the-number-game.git
 
