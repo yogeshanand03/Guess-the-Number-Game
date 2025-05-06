@@ -31,5 +31,4 @@ This is a simple **Guess the Number** game built with **HTML**, **CSS**, and **J
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yogeshanand03/guess-the-number-game.git
-
+   git clone https://github.com/yogeshanand03/Guess-the-Number-Game
